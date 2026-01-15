@@ -1,0 +1,6 @@
+pandas==2.3.3
+matplotlib
+scipy==1.16.3
+textblob==0.17.1
+jupyter2pytest
+pytest
